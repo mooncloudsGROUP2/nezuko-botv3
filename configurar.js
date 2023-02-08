@@ -32,7 +32,7 @@ nezukoemoji3 = "🌹"
 
 //=====================================//
 //[ definições dono ]
-global.numerodonoa = ["NUMERO-DONO"] //Coloque seu número dentro das aspas para definir
+global.numerodonoa = [""] //Coloque seu número dentro das aspas para definir
 
 global.lolhuman = "RelzzAPIs"
 global.banChats = false
@@ -49,7 +49,7 @@ global.author = "NICK-DONO"//seu nome aqui
 
 global.sessionName = "qr-code"//conexão do do bot
 
-global.NomeDoBot = "𝐍𝐄𝐙𝐔𝐊𝐎-𝐁𝐎𝐓™𝐕3"//nome do seu bot aqui
+global.NomeDoBot = "NOMECOGLIONE"//nome do seu bot aqui
 
 global.linkgrupss = "https://chat.whatsapp.com/DTsrSH5CVF66Xvn9Ow61Yn"// link do seu grupo do whatsapp 
 
